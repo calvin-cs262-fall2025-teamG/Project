@@ -1,7 +1,7 @@
 # Project
 Child repos:
-* https://github.com/calvin-cs262-fall2025-teamG/Service
-* https://github.com/calvin-cs262-fall2025-teamG/Client
+* [Service](https://github.com/calvin-cs262-fall2025-teamG/Service)
+* [Client](https://github.com/calvin-cs262-fall2025-teamG/Client)
 ## Vision Statement:
   *Hey, Neighbor!* makes it easy for Calvin University students to save money, reduce waste, and build stronger connections by borrowing and lending items they rarely use like textbooks, tools, or school supplies within a trusted campus network. Instead of letting these items gather dust, students can turn them into shared possibilities, creating a more sustainable, collaborative, and connected community.
  
