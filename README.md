@@ -8,5 +8,5 @@ Child repos:
   Unlike the Calvin Bookstore, which requires purchasing, or rental services like Yoodilize, which charge fees and lack a local community focus, *Hey, Neighbor!* offers a free, peer-to-peer platform that combines the convenience of a rental service with the social involvement of a neighborhood network. Thus, making *Hey, Neighbor!* not just practical, but valuable for campus life.
 
 ## Deliverables:
-Domain Model
+
 ![Domain Model](Stuff.drawio.png)
