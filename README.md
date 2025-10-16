@@ -10,4 +10,5 @@ Child repos:
 ## Deliverables:
 
 ![Domain Model](Stuff.drawio.png)
-![UI Model](ui_model_draft.jpg)
+![UI Model draft](ui_model_draft.jpg)
+![UI Model](UI_model.jpg)
