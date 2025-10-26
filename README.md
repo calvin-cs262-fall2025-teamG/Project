@@ -11,4 +11,4 @@ Other Repos:
 
 Models:
 * [Domain Model](domain_model.png)
-* [UI Model](ui_model_draft.jpg)
+* [UI Model](UI_model.jpg)
