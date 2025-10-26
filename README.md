@@ -1,5 +1,5 @@
 # Project
-Child repos:
+Other Repos:
 * [Service](https://github.com/calvin-cs262-fall2025-teamG/Service)
 * [Client](https://github.com/calvin-cs262-fall2025-teamG/Client)
 ## Vision Statement:
@@ -9,8 +9,6 @@ Child repos:
 
 ## Deliverables:
 
-Domain Model:
-![Domain Model](domain_model.png)
-
-UI Model:
-![UI Model](ui_model_draft.jpg)
+Models:
+* [Domain Model](domain_model.png)
+* [UI Model](ui_model_draft.jpg)
