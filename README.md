@@ -1,5 +1,5 @@
 # Project
-Child repos:
+Other Repos:
 * [Service](https://github.com/calvin-cs262-fall2025-teamG/Service)
 * [Client](https://github.com/calvin-cs262-fall2025-teamG/Client)
 ## Vision Statement:
