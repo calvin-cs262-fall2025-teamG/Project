@@ -9,5 +9,10 @@ Child repos:
 
 ## Deliverables:
 
-![Domain Model](Stuff.drawio.png)
-![UI Model](ui_model_draft.jpg)
+Models:
+* [Domain Model](domain_model.png)
+* [UI Model](UI_model.jpg)
+
+## Presentation:
+
+[Click here to view/edit the Canva slides](https://www.canva.com/design/DAG4hUyy8Sc/WMYmXl35gfmf0kOFfdPnqQ/edit)
