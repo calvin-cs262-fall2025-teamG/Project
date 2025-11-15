@@ -21,4 +21,4 @@ Models:
 
 ## Presentation
 
-[Presentation](https://github.com/calvin-cs262-fall2025-teamG/Project/blob/main/Hey%20Neighbor%20_Presentation.pdf)
+* [Design Presentation](https://github.com/calvin-cs262-fall2025-teamG/Project/blob/main/Hey%20Neighbor%20_Presentation.pdf)
