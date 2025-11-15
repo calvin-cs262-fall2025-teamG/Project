@@ -19,13 +19,13 @@ Models:
 
 * [UI Model](UI_model.jpg)
 
-Presentation
+Presentations:
 
 * [Design Presentation](https://github.com/calvin-cs262-fall2025-teamG/Project/blob/main/Hey%20Neighbor%20_Presentation.pdf)
 
 ## Team Members
 
-* Bryn lamppa
+* Bryn Lamppa
 * Rose Campbell
 * Maham Abrar
 * Beta Akari
