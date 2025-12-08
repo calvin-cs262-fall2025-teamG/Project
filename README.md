@@ -4,12 +4,6 @@
 
   Unlike the Calvin Bookstore, which requires purchasing, or rental services like Yoodilize, which charge fees and lack a local community focus, *Hey, Neighbor!* offers a free, peer-to-peer platform that combines the convenience of a rental service with the social involvement of a neighborhood network. Thus, making *Hey, Neighbor!* not just practical, but valuable for campus life.
 
-* [Domain Model](domain_model.png)
-
-* [UI Model](UI_model.jpg)
-
-* [Design Presentation](https://github.com/calvin-cs262-fall2025-teamG/Project/blob/main/Hey%20Neighbor%20_Presentation.pdf)
-
 ## Team Members
 
 * Bryn Lamppa
@@ -18,7 +12,26 @@
 * Beta Akari
 * Simon Willover
 
-## Related Repositories:
+## Models
+
+* [Domain Model](domain_model.png)
+
+* [UI Model](UI_model.jpg)
+
+* Deployment Diagram
+
+## Presentations
+
+* [Midterm Presentation](https://github.com/calvin-cs262-fall2025-teamG/Project/blob/main/Hey%20Neighbor%20_Presentation.pdf)
+
+* Final Presentation
+
+## User Teseting Documents
+
+* Test Script
+* Test Report
+
+## Codebases to client and service:
 
 * [Service](https://github.com/calvin-cs262-fall2025-teamG/Service)
 
