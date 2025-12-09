@@ -28,8 +28,8 @@
 
 ## User Teseting Documents
 
-* Test Script
-* Test Report
+* [Test Script](TestScript.pdf)
+* [Test Report](Test_Report.pdf)
 
 ## Codebases to client and service:
 
