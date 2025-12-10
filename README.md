@@ -26,9 +26,10 @@
 
 * Final Presentation
 
-## User Teseting Documents
+## User Testing Documents
 
 * [Test Script](Test_Script.pdf)
+
 * [Test Report](Test_Report.pdf)
 
 ## Codebases to client and service:
