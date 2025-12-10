@@ -18,7 +18,7 @@
 
 * [UI Model](UI_model.jpg)
 
-* Deployment Diagram
+* [Deployment Diagram](DeploymentDiagram.drawio.png)
 
 ## Presentations
 
