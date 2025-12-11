@@ -32,7 +32,7 @@
 
 * [Test Report](Test_Report.pdf)
 
-## Codebases to client and service:
+## Codebases to Client and Service
 
 * [Service](https://github.com/calvin-cs262-fall2025-teamG/Service)
 
