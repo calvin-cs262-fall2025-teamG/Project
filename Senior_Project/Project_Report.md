@@ -10,9 +10,22 @@
 ## Normative and Ethical Considerations
 
 ## Success Criteria
-### Goals
-
-### Non-Goals
+  ### Goals
+    - Users can request and share various items within communities.
+    - Users can create and join communities.
+    - Users can message communities to request items.
+    - Users can post available items within their community.
+    - Users can browse and request to join communities.
+    - Borrowing requires human to human communication.
+    - Users can promote members to "Admin" to regulate communities.
+    - Users will be able to request an item within their communities.
+    - Users can see borrowed statistics of their posted items.
+  ### Non-Goals
+    - Users can only borrow items within a community.
+    - Users will not be rated.
+    - We will not handle item liability.
+    - Items cannot be listed on specific communities. 
+      - All items will be listed on all communities.
 
 ## Approach and Implementation
 
