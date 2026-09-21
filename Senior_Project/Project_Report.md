@@ -8,6 +8,10 @@
 ## Background
 
 ## Normative and Ethical Considerations
+  - Personal Information
+    - Name, Age, Address, Phone #, ect
+  - Theft
+  - Damage
 
 ## Success Criteria
   ### Goals
@@ -28,7 +32,28 @@
       - All items will be listed on all communities.
 
 ## Approach and Implementation
+  ### User Roles
+  | Management Privilege  | Owner | Admin | Member |
+  | --------------------- | ----- | ----- | ------ |
+  | Delete Organization   | ✅ | ❌ | ❌ |
+  | Rename Organization   | ✅ | ❌ | ❌ |
+  | Transfer Ownership    | ✅ | ❌ | ❌ |
+  | Promote to Admin      | ✅ | ❌ | ❌ |
+  | Remove Admin          | ✅ | ❌ | ❌ |
+  | Remove Members        | ✅ | ✅ | ❌ |
+  | Invite Members        | ✅ | ✅ | ✅ |
+  | Remove Items          | ✅ | ✅ | ❌ |
+  | Add Items             | ✅ | ✅ | ✅ |
 
+  ### User Interface
+  Needs some tweaking, prob should be individual screens and formatted better, im just lazy rn and want to have the section
+
+  ![UI Document](..\UI_Documents\UI_model.jpg)
+  <!-- [UI_Document](UI_Documents\UI_model.jpg) -->
+
+  ### Scenarios
+  Basically user stories (idk where you put those I didn't see them on trello)
+  
 ## Results
 
 ## Conclusion
