@@ -16,7 +16,7 @@
 
 * [Domain Model](domain_model.png)
 
-* [UI Model](UI_model.jpg)
+* [UI Model](UI_Documents/UI_model.jpg)
 
 * [Deployment Diagram](DeploymentDiagram.drawio.png)
 
