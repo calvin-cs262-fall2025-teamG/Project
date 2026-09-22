@@ -80,13 +80,33 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
   | Add Items             | ✅ | ✅ | ✅ |
 
   ### User Interface
-  Needs some tweaking, prob should be individual screens and formatted better, im just lazy rn and want to have the section
 
-  ![UI Document](..\UI_Documents\UI_model.jpg)
+  ![UI Document](..\UI_Documents\UI_model.png)
+  <!-- [UI_Document](UI_Documents\UI_model.jpg) -->
+
+  ![UI Document](..\UI_Documents\UI_new.png)
   <!-- [UI_Document](UI_Documents\UI_model.jpg) -->
 
   ### Scenarios
-  Basically user stories (idk where you put those I didn't see them on trello)
+
+  - **User log in** — As a user, I want to be able to create an account so that I can post listed items, personalize my profile, access private items that I have interest in, and securely log in later.
+  - **Browse items** — As a borrower, I want to browse the listed items so I can see what I might borrow.
+  - **Device type accessibility** — As a mobile user, I want the app to be fully accessible on both iOS and Android devices so that I can use it no matter my phone type.
+  - **Privacy** — As a user, I want my personal data/history to be protected so that I feel safe using the app.
+  - **Image loading** — As a user browsing multiple items, I want item photos to load quickly and efficiently so that I can see items quickly.
+  - **Navigation** — As a first-time user, I want to understand how to navigate the app within 2 minutes without a tutorial so that I can use the app quickly and effectively.
+  - **Response time** — As a busy user, I want the app to load pages and search results in under 2 seconds so that I don't waste time waiting.
+  - **Bookmark** — As a user, I want to save items I'm interested in so I can revisit them.
+  - **Chat** — As a user, I want to chat with the owner of an item so I can ask questions or arrange pickup.
+  - **Notified** — As a user, I want to receive updates when items I want are available.
+  - **List an item** — As a user, I want to list my own items so I can lend them to others.
+  - **Edit item** — As a user, I want to edit my item listings so I can keep them accurate.
+  - **Delete item** — As a user, I want to delete my item listings.
+  - **Community thread** — As a neighbor, I want to post in a community thread so I can communicate with others nearby.
+  - **About us page** — As a new user, I want to see an About Us page so I understand what Hey Neighbor is before signing up.
+  - **Multi-neighborhood** — As a user, I want the app to support multiple neighborhoods/communities so I can be in more than one.
+  - **Required login** — As a user, I want to be required to log in before browsing so item and borrower/lender info stays private.
+  - **Category browsing** — As a user, I want to filter items by a defined category (Books, Tools, etc.) so I can find things faster.
   
 ## Results
 
