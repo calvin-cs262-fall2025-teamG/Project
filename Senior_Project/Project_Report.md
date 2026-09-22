@@ -136,3 +136,13 @@ We will consider the overall project a success if, once the remaining features a
 Hey, Neighbor! has laid the groundwork last year for its transition from a Calvin-only campus app to a community-based borrowing platform serving churches, neighborhoods, schools, and other trusted groups. The completed open account system and hardened route authentication provide the secure base that all of this year's remaining features build upon.
 
 The features still in progress — community chat, discovery and membership, shared image storage, and expanded profile settings — represent the bulk of the user-facing change. Once finished and validated, Hey, Neighbor! will deliver on the vision set out in its objective: a free, peer-to-peer borrowing network built around communities whose members already share a basis for trust, offering value that neither buy-and-sell marketplaces nor fee-based rental services can match. Success for this year's project therefore depends less on the work already done and more on completing and validating the community features that remain.
+
+## Development Process
+
+We use a Github feature-branch workflow: changes are made on individual branches and merged into main via pull request after review by a teammate.
+
+We track tasks on Trello, organized into back-log/doing/done sprint cards.
+
+We meet as a team weekly on Thursdays at 4pm and with our advisor, Professor Norman, weekly on Tuesdays at 2:30pm. Outside of meetings, each team member puts in roughly 3 hours of independent work per week, adjusted based on how long Thursday's meeting runs.
+
+Our goal is to have the app feature-complete by January, so that spring semester can focus on user testing (ideally with a real community, such as a local church, using the app and giving us feedback.)
