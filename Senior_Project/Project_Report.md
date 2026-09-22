@@ -41,12 +41,6 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
 
 “Yoodlize: Rent Anything From Anyone.” *Yoodlize.Com*, 2025, https://www.yoodlize.com/.
 
-## Normative and Ethical Considerations
-  - Personal Information
-    - Name, Age, Address, Phone #, ect
-  - Theft
-  - Damage
-
 ## Success Criteria
   ### Goals
     - Users can request and share various items within communities.
