@@ -107,6 +107,21 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
   - **Multi-neighborhood** — As a user, I want the app to support multiple neighborhoods/communities so I can be in more than one.
   - **Required login** — As a user, I want to be required to log in before browsing so item and borrower/lender info stays private.
   - **Category browsing** — As a user, I want to filter items by a defined category (Books, Tools, etc.) so I can find things faster.
+
+## Ethics
+  Hey, Neighbor! is built on the belief that a borrowing network's real value comes from the people in it. It is not just the items members share, but the connections and trust those exchanges create. That principle carries real ethical responsibilities for how the platform is designed and operated.
+
+  **Keeping people at the center**. A borrowing platform only works if the members trust and engage with one another. We must be careful never to design in a way that squeezes people out. That means avoiding barriers, fees, or friction that discourage participation, and not letting a simpler or more impersonal process replace the human interaction that makes the network valuable. Borrowing here is deliberately human to human. Members communicate directly to arrange pickup, ask questions, and build rapport. We must not remove or automate away that personal connection, because it is both the heart of the product and the source of its trust.
+
+  **Avoiding monetization that exploits community trust**. Because the platform is free and community oriented, we should resist pressure to monetize in ways that exploit members' trust or turn neighbors into transactions. Any future revenue model must be transparent, non coercive, and never degrade the borrowing experience or the connections within it.
+
+  **Privacy and personal information**. The platform holds sensitive information, including names, contact details, location, addresses, and borrowing history. Users must be able to control what they share. Personal data should only be used to facilitate borrowing, and it should be protected as the sensitive information it is, in line with the ethical concerns already noted.
+
+  **Trust and fairness**. Because borrowing depends on community governance, owners and admins must not misuse their powers to exclude, punish, or disadvantage members unfairly. Decisions about membership, item removal, and community moderation should be transparent and grounded in the community's own rules.
+
+  **Responsibility and liability**. Lending and borrowing real items carries inherent risks, including theft, damage, and disagreement. While the app does not assume liability, we have an ethical responsibility to make the expectations around lending clear, encourage honest communication, and give members tools to resolve issues fairly.
+
+  **Avoiding harm and waste**. The platform's environmental and community goals, reducing waste and over consumption by sharing rather than buying, should stay central. We should ensure the platform remains genuinely free and accessible, so it serves the community rather than becoming another cost or burden.
   
 ## Results
 
