@@ -110,4 +110,20 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
   
 ## Results
 
+This section assesses the current state of Hey, Neighbor! against the goals and success criteria defined in the earlier sections of this report.
+
+
+### Work Still In Progress
+The remaining changes from this year's scope — the **community chat thread**, **community discovery and membership**, **shared image storage**, and the **expanded profile settings** — are under active development and not yet complete.
+
+### Testing Status
+Because several features remain in progress, full end-to-end validation has not yet been completed. The finished account and authentication features have been verified to work within the community-based flow. The remaining features will be validated against the success criteria as they are completed.
+
+### What Success Will Look Like
+We will consider the overall project a success if, once the remaining features are complete, users can reliably create and join communities, request and share items entirely through human-to-human communication, and trust that their data stays protected — all without the scope expanding beyond the stated non-goals.
+
 ## Conclusion
+
+Hey, Neighbor! has laid the groundwork last year for its transition from a Calvin-only campus app to a community-based borrowing platform serving churches, neighborhoods, schools, and other trusted groups. The completed open account system and hardened route authentication provide the secure base that all of this year's remaining features build upon.
+
+The features still in progress — community chat, discovery and membership, shared image storage, and expanded profile settings — represent the bulk of the user-facing change. Once finished and validated, Hey, Neighbor! will deliver on the vision set out in its objective: a free, peer-to-peer borrowing network built around communities whose members already share a basis for trust, offering value that neither buy-and-sell marketplaces nor fee-based rental services can match. Success for this year's project therefore depends less on the work already done and more on completing and validating the community features that remain.
