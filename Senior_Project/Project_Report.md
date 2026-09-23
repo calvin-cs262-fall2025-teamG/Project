@@ -64,7 +64,7 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
   | Management Privilege  | Owner | Admin | Member |
   | --------------------- | ----- | ----- | ------ |
   | Delete Organization   | ✅ | ❌ | ❌ |
-  | Rename Organization   | ✅ | ❌ | ❌ |
+  | Update Organization   | ✅ | ❌ | ❌ |
   | Transfer Ownership    | ✅ | ❌ | ❌ |
   | Promote to Admin      | ✅ | ❌ | ❌ |
   | Remove Admin          | ✅ | ❌ | ❌ |
