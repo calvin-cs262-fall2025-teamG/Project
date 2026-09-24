@@ -116,6 +116,36 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
   **Responsibility and liability**. Lending and borrowing real items carries inherent risks, including theft, damage, and disagreement. While the app does not assume liability, we have an ethical responsibility to make the expectations around lending clear, encourage honest communication, and give members tools to resolve issues fairly.
 
   **Avoiding harm and waste**. The platform's environmental and community goals, reducing waste and over consumption by sharing rather than buying, should stay central. We should ensure the platform remains genuinely free and accessible, so it serves the community rather than becoming another cost or burden.
+
+  ### Potential Challenges
+  - **Privacy & data protection:** we store names, contact details, location,
+    and borrowing history. A breach or misuse would harm member trust. Challenge:
+    minimize stored data, restrict access, and secure credentials.
+  - **Trust & impersonation:** open accounts mean fake or unverified members could
+    join. Challenge: how to verify identity without adding friction.
+  - **Abuse of moderation power:** owners/admins could unfairly exclude or punish
+    members. Challenge: keep membership and moderation decisions transparent.
+  - **Liability and disputes:** items can be damaged or not returned. We don't
+    assume liability, so the challenge is setting clear expectations and giving
+    members fair ways to resolve disagreements.
+  - **Monetization pressure:** staying free and community-based invites pressure
+    to monetize. Challenge: resist models that exploit trust or degrade the
+    experience.
+
+## Development Process
+
+We will use GitHub Flow for version control. All work happens on feature
+branches (e.g., `feature/community-chat`), reviewed via pull requests before
+merging into `main`. Each PR requires at least one team member review.
+
+- **Team meetings:** Thursday nights (weekly) 4-6 pm to sync progress and assign work.
+- **Advisor check-ins:** every Tuesday with our advisor.
+- **Individual work:** each member commits ~3 hours of solo work per week.
+- **Tooling:** ticketed tasks tracked in the repo's issue tracker; features
+  merged via PR; CI runs tests on every pull request.
+
+Because several features remain in active development, we keep branches short-lived
+and merge frequently to avoid long-lived, hard-to-review changes.
   
 ## Results
 
