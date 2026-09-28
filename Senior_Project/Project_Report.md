@@ -9,7 +9,7 @@
 
 Hey, Neighbor! began as a project in Calvin's CS 262 course, built by Bryn Lamppa, Rose Campbell, Maham Abrar, Beta Akari, and Simon Willover. At that stage, the app was Calvin-oriented, with a hope of eventually expanding beyond just Calvin campus. Listed items consisted mostly of things students would need temporarily and didn’t want to buy outright, like textbooks, calculators, and dorm supplies.
 
-The CS 262 version was a simple, straightforward browsing app. Users could look through items other students had listed, each with a description, a profile of the person lending it, an in-app chat, and a borrow button. The borrow button simply notified the lister that someone was interested. The actual details of pickup and how long the item would be borrowed for were left to the two users to work out over chat. A bookmarking feature that lets users save items they were interested in or that were already being borrowed. The app had five tabs: home, search, list, chat, and profile.
+The CS 262 version was a simple, straightforward browsing app. Users could look through items other students had listed, each with a description, a profile of the person lending it, an in-app chat, and a borrow button. The borrow button simply notified the lister that someone was interested. The actual details of pickup and how long the item would be borrowed for were left to the two users to work out over chat. The app also included a bookmarking feature that let users save items they were interested in, including items that were already being borrowed. The app had five tabs: home, search, list, chat, and profile.
 
 On the technical side, the CS 262 version consisted of a React Native (Expo) mobile client, a Node.js/Express backend, and a PostgreSQL database, deployed on Microsoft Azure. Account sign-up was gated to Calvin email addresses having the application restricted to Calvin University students only.
 
@@ -19,7 +19,7 @@ This year's project returns Hey, Neighbor! to the goal the original CS 262 team 
 #### Current Changes and Implementations:
 - Account creation moves from Calvin email sign-up to a standard email and password account open to anyone.
 - The Search tab is being replaced by a community chat thread, where users can post and browse requests for items they need, rather than only browsing what has already been listed.
-- Community discovery and membership are being added. Users will be able to explore communities beyond the ones they already belong to and request to join, with the community's owner able to approve or deny that request.
+- Community discovery and membership are being added. Users will be able to explore communities beyond the ones they already belong to and request to join, with the community's Owner able to approve or deny that request.
 - Image storage is being moved to a more reliable, shared solution, rather than files saved locally.
 - Route authentication is being made more secure.
 - Profile settings are being expanded beyond just name and profile picture, to include account deletion, password changes, logout, and email changes.
@@ -48,16 +48,15 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
     - Users can message communities to request items.
     - Users can post available items within their community.
     - Users can browse and request to join communities.
-    - Borrowing requires human to human communication.
-    - Users can promote members to "Admin" to regulate communities.
+    - Borrowers and lenders communicate directly to arrange each borrowing.
+    - Community Owners can promote members to "Admin" to regulate communities.
     - Users will be able to request an item within their communities.
     - Users can see borrowed statistics of their posted items.
   ### Non-Goals
     - Users can only borrow items within a community.
     - Users will not be rated.
     - We will not handle item liability.
-    - Items cannot be listed on specific communities. 
-      - All items will be listed on all communities.
+    - Users cannot choose only some of their communities for an item listing; each listing is shared with all communities the user belongs to.
 
 ## Approach and Implementation
   ### User Roles
@@ -75,15 +74,13 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
 
   ### User Interface
 
-  ![UI Document](..\UI_Documents\UI_model.png)
-  <!-- [UI_Document](UI_Documents\UI_model.jpg) -->
+  ![UI model](../UI_Documents/ui_model.png)
 
-  ![UI Document](..\UI_Documents\UI_new.png)
-  <!-- [UI_Document](UI_Documents\UI_model.jpg) -->
+  ![Updated UI model](../UI_Documents/ui_new.png)
 
   ### Scenarios
 
-  - **User log in** — As a user, I want to be able to create an account so that I can post listed items, personalize my profile, access private items that I have interest in, and securely log in later.
+  - **User log in** — As a user, I want to be able to create an account so that I can post listed items, personalize my profile, browse items shared within my communities, and securely log in later.
   - **Browse items** — As a borrower, I want to browse the listed items so I can see what I might borrow.
   - **Device type accessibility** — As a mobile user, I want the app to be fully accessible on both iOS and Android devices so that I can use it no matter my phone type.
   - **Privacy** — As a user, I want my personal data/history to be protected so that I feel safe using the app.
