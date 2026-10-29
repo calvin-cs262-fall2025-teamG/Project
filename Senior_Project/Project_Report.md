@@ -162,7 +162,7 @@ This section outlines one visible project implementation and implementations mad
 
 One visible project implemtation is the completed supabase_api script in our client.  The supabase_api script allows our client to interact with the hosted supabase server through rpc calls.
 
-Bryn - 
+Bryn - Created database context, migration in Client from Azure to Supabase, create automated tests of the Client, mocking the Server.
 
 Gregory - Created/Revamped the Login/Signup page including tests, Created automated tests of the client mocking the server
 
