@@ -52,11 +52,10 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
     - Community Owners can promote members to "Admin" to regulate communities.
     - Users will be able to request an item within their communities.
     - Users can see borrowed statistics of their posted items.
-  ### Non-Goals
     - Users can only borrow items within a community.
+  ### Non-Goals
     - Users will not be rated.
     - We will not handle item liability.
-    - Users cannot choose only some of their communities for an item listing; each listing is shared with all communities the user belongs to.
 
 ## Approach and Implementation
   ### User Roles
@@ -157,6 +156,17 @@ Because several features remain in progress, full end-to-end validation has not 
 
 ### What Success Will Look Like
 We will consider the overall project a success if, once the remaining features are complete, users can reliably create and join communities, request and share items entirely through human-to-human communication, and trust that their data stays protected — all without the scope expanding beyond the stated non-goals.
+
+### Milestone Two
+This section outlines one visible project implementation and implementations made by each team member during Milestone Two of senior project.
+
+One visible project implemtation is the completed supabase_api script in our client.  The supabase_api script allows our client to interact with the hosted supabase server through rpc calls.
+
+Bryn - 
+
+Gregory - 
+
+Jacob - 
 
 ## Conclusion
 
