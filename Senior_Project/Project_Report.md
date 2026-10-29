@@ -176,7 +176,7 @@ Jacob:
 - Created client script to interact with supabase database
 - Created database edge function to handle database data
 
-## Status Presenation Outline:
+## Status Presentation Outline:
 
 **Title Slide**
 
