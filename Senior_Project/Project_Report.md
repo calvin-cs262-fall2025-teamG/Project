@@ -176,6 +176,53 @@ Jacob:
 - Created client script to interact with supabase database
 - Created database edge function to handle database data
 
+## Status Presenation Outline:
+
+**Title Slide**
+
+- App name, tagline, team names, advisor (Prof. Norman)
+
+**Vision Slide**
+
+- Problem: people buy items they rarely use and don't think to use the community around them
+- Solution: a free app for borrowing and lending within trusted communities (churches, neighborhoods, schools)
+- Difference: free (unlike Yoodlize), borrowing rather than buying (unlike Marketplace), returnable items rather than gifts (unlike Buy Nothing)
+
+Hey, Neighbor! gives communities like churches, neighborhoods, and schools an easy way to borrow and lend items they rarely use, like tools, camping gear, and household equipment, within a trusted network. Rather than people buying their own rarely-used items, members can rely on what their community already owns, reducing waste, cutting costs, and forming neighborly connections. Unlike Facebook Marketplace, which is built around buying and selling rather than borrowing, or rental services like Yoodilize, which charge fees and are not strictly community-based, Hey, Neighbor! offers a free, peer-to-peer platform that combines the convenience of a rental service with the trust of a neighborhood network. This makes Hey, Neighbor! not just practical, but valuable for any community it serves.
+
+**Demo Slide**
+
+Work through scenerios:
+- Sign up and log in
+- browse items
+- list an item
+- chat and bookmark
+
+**Accomplishments**
+
+- Migrated backend from Azure to Supabase, built supabase_api
+- New email/password login and signup
+- Automated client tests with a mocked server
+- Client migration
+
+**Design Norms**
+
+- Trust: borrowing only within communities
+- Caring: human-to-human interactions, no automation
+- Justice and transparency: Owner/Admin/Member roles
+- Stewardship: reduce waste, stay free
+- Privacy: minimal data, secure routes
+
+**Problems and Solutions**
+
+- Azure limitations → moved to Supabase
+- Local image storage → moving to shared storage
+
+**Next Semester**
+
+- Finish by End of Fall: community chat thread, community discovery and membership, admin roles, image storage, profile settings
+- Spring: user test with a local church, gather feedback, work through issues that arise.
+
 ## Conclusion
 
 Hey, Neighbor! has laid the groundwork last year for its transition from a Calvin-only campus app to a community-based borrowing platform serving churches, neighborhoods, schools, and other trusted groups. 
