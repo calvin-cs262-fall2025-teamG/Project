@@ -164,7 +164,7 @@ One visible project implemtation is the completed supabase_api script in our cli
 
 Bryn - 
 
-Gregory - 
+Gregory - Created/Revamped the Login/Signup page including tests, Created automated tests of the client mocking the server
 
 Jacob - 
 
