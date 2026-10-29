@@ -166,7 +166,15 @@ Bryn -
 
 Gregory - 
 
-Jacob - 
+Jacob:
+- Created Supabase Project
+- Created database schema
+- Created database rls policies
+- Created database functions
+- Created Supabase storage buckets
+- Created storage bucket rls polcies
+- Created client script to interact with supabase database
+- Created database edge function to handle database data
 
 ## Conclusion
 
