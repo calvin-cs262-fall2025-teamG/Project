@@ -223,6 +223,8 @@ Work through scenerios:
 - Finish by End of Fall: community chat thread, community discovery and membership, admin roles, image storage, profile settings
 - Spring: user test with a local church, gather feedback, work through issues that arise.
 
+*We will be working off of this [presentation](Presentation.pdf)*
+
 ## Conclusion
 
 Hey, Neighbor! has laid the groundwork last year for its transition from a Calvin-only campus app to a community-based borrowing platform serving churches, neighborhoods, schools, and other trusted groups. 
