@@ -166,7 +166,15 @@ Bryn - Created database context, migration in Client from Azure to Supabase, cre
 
 Gregory - Created/Revamped the Login/Signup page including tests, Created automated tests of the client mocking the server
 
-Jacob - 
+Jacob:
+- Created Supabase Project
+- Created database schema
+- Created database rls policies
+- Created database functions
+- Created Supabase storage buckets
+- Created storage bucket rls polcies
+- Created client script to interact with supabase database
+- Created database edge function to handle database data
 
 ## Conclusion
 
