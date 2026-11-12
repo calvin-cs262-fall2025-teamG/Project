@@ -63,14 +63,20 @@ Hey, Neighbor! is unique in that it is simultaneously free, structured around bo
   | --------------------- | ----- | ----- | ------ |
   | Delete Organization   | ✅ | ❌ | ❌ |
   | Update Organization   | ✅ | ❌ | ❌ |
-  | Transfer Ownership    | ✅ | ❌ | ❌ |
-  | Promote to Admin      | ✅ | ❌ | ❌ |
-  | Remove Admin          | ✅ | ❌ | ❌ |
-  | Remove Members        | ✅ | ✅ | ❌ |
+  | Update Owner          | ✅ | ❌ | ❌ |
+  | Delete Owner          | ❌ | ❌ | ❌ |
+  | Create Admin          | ✅ | ❌ | ❌ |
+  | Delete Admin          | ✅ | ❌ | ❌ |
+  | Create Messages       | ✅ | ✅ | ✅ |
+  | Update Messages       | only owned | only owned | only owned |
+  | Delete Messages       | ✅ | ✅ | ❌ |
   | Invite Members        | ✅ | ✅ | ✅ |
-  | Remove Items          | ✅ | ✅ | ❌ |
-  | Add Items             | ✅ | ✅ | ✅ |
-
+  | Accept Invites        | ✅ | ✅ | ❌ |
+  | Update Member Status  | ✅ | ✅ | ❌ |
+  | Delete Members        | ✅ | ✅ | ❌ |
+  | Delete Items          | ✅ | ✅ | ❌ |
+  | Create Items          | ✅ | ✅ | ✅ |
+  
   ### User Interface
 
   ![UI model](../UI_Documents/ui_model.png)
