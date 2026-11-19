@@ -166,7 +166,7 @@ We will consider the overall project a success if, once the remaining features a
 ### Milestone Two
 This section outlines one visible project implementation and implementations made by each team member during Milestone Two of senior project.
 
-One visible project implemtation is the completed supabase_api script in our client.  The supabase_api script allows our client to interact with the hosted supabase server through rpc calls.
+One visible project implemtation is the completed supabase_service script in our client.  The supabase_service script allows our client to interact with the hosted supabase server through rpc calls.
 
 Bryn - Created database context, migration in Client from Azure to Supabase, create automated tests of the Client, mocking the Server.
 
